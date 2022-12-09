@@ -9,5 +9,5 @@ Turtle Obfuscator is a webhook lua obfuscator that can protect your file from sk
 [!] After having webhook link put the link
 ```lua
 _G.WebHook = "put the webhook link here"
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/noSkidlol/TurtleObfuscator/main/source')))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/noSkidlol/TurtleObfuscator/main/source.txt')))()
 ```
